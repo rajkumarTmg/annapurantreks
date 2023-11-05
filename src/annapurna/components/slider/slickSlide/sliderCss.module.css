@@ -1,0 +1,16 @@
+.slick-next {
+  /* display: none !important; */
+  /* background-color: black !important; */
+  cursor: default !important;
+}
+.slick-prev {
+  display: none !important;
+  cursor: default !important;
+  /* background-color: black !important */
+}
+
+
+.slick-arrow .slick-prev{
+  display: none !important;
+}
+

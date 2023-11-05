@@ -1,0 +1,158 @@
+/* Tailwind  */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+/* @font-face {
+  font-family: "Poppins", sans-serif;
+  src: url("../assets/fonts/Poppins-Thin.ttf");
+  font-weight: 100;
+}
+@font-face {
+  font-family: "Poppins", sans-serif;
+  src: url("../assets/fonts/Poppins-ExtraLight.ttf");
+  font-weight: 200;
+}
+@font-face {
+  font-family: "Poppins", sans-serif;
+  src: url("../assets/fonts/Poppins-Light.ttf");
+  font-weight: 300;
+}
+@font-face {
+  font-family: "Poppins", sans-serif;
+  src: url("../assets/fonts/Poppins-Regular.ttf");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Poppins", sans-serif;
+  src: url("../assets/fonts/Poppins-Medium.ttf");
+  font-weight: 500;
+}
+@font-face {
+  font-family: "Poppins", sans-serif;
+  src: url("../assets/fonts/Poppins-SemiBold.ttf");
+  font-weight: 600;
+}
+@font-face {
+  font-family: "Poppins", sans-serif;
+  src: url("../assets/fonts/Poppins-Bold.ttf");
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Poppins", sans-serif;
+  src: url("../assets/fonts/Poppins-ExtraBold.ttf");
+  font-weight: 800;
+}
+@font-face {
+  font-family: "Poppins", sans-serif;
+  src: url("../assets/fonts/Poppins-Black.ttf");
+  font-weight: 900;
+} */
+
+@font-face {
+  font-family: "Amithen";
+  src: url("../assets/fonts/amithen/Amithen.ttf");
+  font-style: normal;
+  word-spacing: 10px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+/* Display select language none start */
+.VIpgJd-ZVi9od-xl07Ob-lTBxed {
+  display: none !important;
+}
+
+.VIpgJd-ZVi9od-xl07Ob-lTBxed {
+  display: none !important;
+}
+/* Display select language none end */
+
+/* Display 2nd google icon none  */
+
+/* Display indicator icon google language none */
+.indicator {
+  display: none !important;
+}
+
+#google_translate_element {
+  margin-top: -20px !important;
+}
+
+/* Show scrollbar for elements with class scrollbar-jpg */
+.scrollbar-jpg::-webkit-scrollbar {
+  display: block;
+  width: 7px;
+  height: 5px;
+}
+
+/* Customize scrollbar track */
+.scrollbar-jpg::-webkit-scrollbar-track {
+  background: #d9d9d9;
+  border-radius: 15px;
+}
+
+/* Customize scrollbar thumb */
+.scrollbar-jpg::-webkit-scrollbar-thumb {
+  background-color: #e09132;
+  border-radius: 5px;
+}
+
+/* Change scrollbar thumb on hover */
+.scrollbar-jpg::-webkit-scrollbar-thumb:hover {
+  background-color: #555;
+}
+
+/* Slider Css */
+
+/* Side bar scroll bar */
+/* Hide the scrollbar */
+/* ::-webkit-scrollbar {
+  width: 8px;
+} */
+
+/* Style the thumb */
+/* ::-webkit-scrollbar-thumb {
+  background-color: #0a2b3c;
+  border-radius: 10px; */
+
+/* Style the track */
+/* ::-webkit-scrollbar-track {
+  background-color: #f2f2f2; */
+
+/* Side bar scroll bar */
+
+/* blockquote style  */
+.wp-block-quote {
+  border-left: 5px solid #e09132;
+  padding-left: 20px;
+  margin-left: 0px;
+  font-size: 1.4rem;
+  font-weight: 500;
+  font-style: italic;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-family: "Amithen";
+  margin-top: 60px !important;
+}
+
+/* h1 h2 h3 h4 h5 h6 {
+  font-family: "Amithen";
+  font-size: 2.5rem;
+  font-weight: 600;
+  color: #e09132;
+} */
+/* strong {
+  font-weight: 600;
+  font-family: "Amithen";
+  font-size: 2.5rem;
+  font-weight: 600;
+  color: #e09132;
+} */
